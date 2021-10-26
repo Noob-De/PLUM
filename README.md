@@ -44,8 +44,7 @@ After the payment has been done a pop up and image will be shown.
 * Next Page Done by Ashish
 * Product Page done by Rahul.
 * Payment Page done by Tushar
-* All Javascript file done by Shubham & Rahul (90%)
-* Rest done by Ashish & Tushar.
+
 
 # Challenge-:
 We had faced a lot of issues in cloning the website. First of all we were not used to reading the code of other people. There we faced some issues. We also sometimes had to fix some issues related to merging our code through github.
